@@ -1,6 +1,6 @@
-##Site construído para teste de habilidade
+## Site construído para teste de habilidade
 
-###Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
